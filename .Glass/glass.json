@@ -1,0 +1,59 @@
+{
+  "NetworkTables": {
+    "Retained Values": {
+      "open": false
+    },
+    "transitory": {
+      "SmartDashboard": {
+        "open": true
+      }
+    },
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Pose": "Field2d",
+      "/SmartDashboard/Auto Mode": "String Chooser",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/Module 0": "Mechanism2d",
+      "/SmartDashboard/Module 1": "Mechanism2d",
+      "/SmartDashboard/Module 2": "Mechanism2d",
+      "/SmartDashboard/Module 3": "Mechanism2d",
+      "/SmartDashboard/PathPlanner": "Alerts"
+    },
+    "windows": {
+      "/FMSInfo": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/Pose": {
+        "builtin": "",
+        "height": 8.051901817321777,
+        "image": "E:\\RebuiltSigma26\\AdvantageScope\\FE-2026-_REBUILT_Playing_Field_With_Background.png",
+        "width": 17.54825210571289,
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Field": {
+        "builtin": "",
+        "height": 8.051901817321777,
+        "image": "E:\\RebuiltSigma26\\AdvantageScope\\FE-2026-_REBUILT_Playing_Field_With_Background.png",
+        "width": 17.54825210571289,
+        "window": {
+          "name": "BotView"
+        }
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "Connections": {
+      "open": true
+    },
+    "visible": true
+  },
+  "NetworkTables Settings": {
+    "mode": "Client (NT3)",
+    "serverTeam": "9692"
+  },
+  "enterKey": 81
+}
